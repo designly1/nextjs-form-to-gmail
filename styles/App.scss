@@ -1,0 +1,22 @@
+@import "~bootstrap/scss/bootstrap";
+
+.navbar {
+    padding: 1em;
+    margin-bottom: 1em;
+
+    &-brand {
+        color: white;
+        cursor: pointer;
+        &:hover {
+            color: yellow;
+        }
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        &:hover {
+            color: rgb(124, 124, 232);
+        }
+    }
+}
