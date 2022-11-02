@@ -1,3 +1,5 @@
+# Simple Next.JS Form to Email Using React-Hook-Form and Gmail
+
 If there's one thing in front-end development that I hate the most, that would be forms. Forms are the worst! Form validation is a very important part of gathering user data as we want to make sure we get the data in the format we expect. Otherwise, bad things often happen!
 
 I chose [Next.JS](https://nextjs.org/) as our framework for this demo because I use it for just about everything. Next.JS is a layer on top of [ReactJS](https://reactjs.org/), a full-stack framework created by Facebook that uses Javascript for both front- and back-end code.
